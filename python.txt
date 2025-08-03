@@ -1,0 +1,4 @@
+what is the correct file extension for python files--->python
+what is correct command line syntax for cchecking if python is installed on your computer=------>pythpn--version
+correct syntax to exit the python command line interface----->exit()
+indetention in python iss only for readiblity ----.false

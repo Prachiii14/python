@@ -1,0 +1,1 @@
+print("hello here a promise to oneself regular coding rounde and regular aptitude i have to do it")

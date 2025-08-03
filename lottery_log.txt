@@ -1,0 +1,51 @@
+Lottery Log
+Start Time: 2025-06-04 15:43:19.331029
+Participants:
+ - riya (registered at 2025-06-04 15:43:23.905138)
+ - siya (registered at 2025-06-04 15:43:27.025350)
+ - miya (registered at 2025-06-04 15:43:28.599144)
+ - riz (registered at 2025-06-04 15:43:33.513888)
+
+ Lottery Results:
+Rank 1: miya
+Rank 2: riz
+Rank 3: siya
+Rank 4: riya
+
+ Winner: miya
+Total Participants: 4
+--------------------------------------------------
+Lottery Log
+Start Time: 2025-06-06 13:40:05.421415
+Participants:
+ - prachi (registered at 2025-06-06 13:40:11.158917)
+ - riya (registered at 2025-06-06 13:40:13.918008)
+ - babli (registered at 2025-06-06 13:40:16.731470)
+
+ Lottery Results:
+Rank 1: babli
+Rank 2: prachi
+Rank 3: riya
+
+ Winner: babli
+Total Participants: 3
+--------------------------------------------------
+Lottery Log
+Start Time: 2025-06-06 13:46:01.154830
+Participants:
+ - iya (registered at 2025-06-06 13:46:04.233117)
+ - kkkk (registered at 2025-06-06 13:46:06.117718)
+ - eeee (registered at 2025-06-06 13:46:08.379522)
+ - riya (registered at 2025-06-06 13:46:10.937787)
+ - hjj (registered at 2025-06-06 13:46:14.026739)
+
+ Lottery Results:
+Rank 1: eeee
+Rank 2: hjj
+Rank 3: kkkk
+Rank 4: iya
+Rank 5: riya
+
+ Winner: eeee
+Total Participants: 5
+--------------------------------------------------
